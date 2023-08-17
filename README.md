@@ -35,9 +35,11 @@ SIGNATURE = "Love, John and Jessie"
 Make sure to replace "guest_list.csv" with your own file.
 Make sure your "guest_list.csv" has two columns titled "name", and "gift"
 
+## Run main.py
 To generate your thank you letters, run main.py
 The script will generate "thank_you_letters.csv". 
-Letters will print in the terminal as they are generated. The output csv will be generated once all letters are complete.
+Letters will print in the terminal as they are generated. 
+The output csv will be generated with all letters once complete.
 
 ## Hints:
 1. Customize the names in your csv with their relationship to get more personal responses.
