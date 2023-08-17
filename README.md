@@ -1,4 +1,7 @@
 # AI Thank You Writer
+This repo uses a simple python script to write thank you letters for gifts based on user csv file. Uses OpenAI's ChatGPT API.
+
+# // Get Started //
 
 ## Clone the Repo:
 Clone the repository. 
